@@ -62,7 +62,7 @@ The dashboard focuses on understanding workforce trends, employee performance, s
 ## 📸 Dashboard Preview
 ![Employee Performance & Attrition Dashboard](Employee_Performance.pdf)
 
-> *(Upload your dashboard screenshot as `dashboard.png` in this repository)*
+
 
 ---
 
